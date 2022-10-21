@@ -23,7 +23,7 @@
 </div>
 
 <h3 align="left">Some achievements:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dreamer5201314&column=3&margin-w=15&margin-h=15" alt="Dreamer5201314" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dreamer5201314&rank=-C" alt="Dreamer5201314" /></a> </p>
 <h3 align="left">Something about me:</h3>
 - 👀 I’m interested in network attack and defense, dns poisoning, sniffing and bug scanning. I'm really hoping that I could be a white hat one day so that I can use my skills to protect my friends and my families from network attack.
 
