@@ -12,6 +12,10 @@
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=Dreamer5201314&show_icons=true&theme=dark&count_private=true)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamer5201314&theme=dark&layout=compact)
 
+  <h3 align="left">Streak status：</h3>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Dreamer5201314)](https://git.io/streak-stats)
+  
 <h3 align="left">Activity graph:</h3>
   
 [![Dreamer5201314's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dreamer5201314&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
