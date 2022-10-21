@@ -6,11 +6,15 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:loveforcsu@gmail.com)
 
+[![](https://visitor-badge.laobi.icu/badge?page_id=Dreamer5201314.Dreamer5201314)](https://visitor-badge.laobi.icu/badge?page_id=Dreamer5201314.Dreamer5201314)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=Don't+ever+let+somebody+say+that+you+can't+do+something.)](https://git.io/typing-svg)
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=Dreamer5201314&show_icons=true&theme=dark&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamer5201314&theme=dark&layout=compact)
+
+[![](https://activity-graph.herokuapp.com/graph?username=Dreamer5201314&theme=github)](https://activity-graph.herokuapp.com/graph?username=Dreamer5201314&theme=github)
 
 </div>
 
