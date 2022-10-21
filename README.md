@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Lover</h1>
 <h3 align="center">A guy who is majoring in software engineering</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dreamer5201314&label=Profile%20views&color=3399FF&style=flat" alt="crossoverjie" />
-<p align="center"> [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:loveforcsu@gmail.com) </p>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:loveforcsu@gmail.com)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=Don't+ever+let+somebody+say+that+you+can't+do+something.)](https://git.io/typing-svg)
+
+![GithubStats](https://github-readme-stats.vercel.app/api?username=Dreamer5201314&show_icons=true&theme=dark&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamer5201314&theme=dark&layout=compact)
+
+</div>
+
 <h3 align="left">Some Achievements:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dreamer5201314" alt="Dreamer5201314" /></a> </p>
 <h3 align="left">Something about me:</h3>
