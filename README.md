@@ -49,7 +49,7 @@
 
 - 🌱 I’m currently learning how to attack website and how to make port scanning
 
-- 💞️ I’m looking to collaborate on some projects which about network attack and defence
+- 💞️ I’m looking to collaborate on some projects which are about network attack and defence
 
 - 📫 How to reach me ... You can reach me by sending an email to craker-fan@foxmail.com
 
