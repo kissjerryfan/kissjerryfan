@@ -38,6 +38,13 @@
 <!-- just img -->
 <div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
 
+<!-- 比较好的开源项目卡片 -->
+<div align="center">
+<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
+  <img height="130px" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img height="130px" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=kamranahmedse&repo=developer-roadmap&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>
+
 - 👀 I’m interested in network attack and defense, dns poisoning, sniffing and bug scanning. I'm really hoping that I could be a white hat one day so that I can use my skills to protect my friends and my families from network attack.
 
 - 🌱 I’m currently learning how to attack website and how to make port scanning
