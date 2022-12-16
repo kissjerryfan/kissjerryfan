@@ -57,6 +57,10 @@
 
 - 📫 How to reach me ... You can reach me by sending an email to craker-fan@foxmail.com
 
+<div align="center">
+    <img src="https://metrics.lecoq.io/Dreamer5201314?template=classic&config.timezone=Asia%2FShanghai">
+</div>
+
 <h3 align="left">Quotation:</h3>
 
 <!-- Dynamic Quotes -->
