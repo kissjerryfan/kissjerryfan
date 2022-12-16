@@ -28,6 +28,8 @@
   
 [![Dreamer5201314's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dreamer5201314&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![](https://raw.githubusercontent.com/Dreamer5201314/Dreamer5201314/main/assets/github-contribution-grid-snake.svg)
+
 </div>
 
 <h3 align="left">Some achievements:</h3>
