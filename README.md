@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerry Fan</h1>
-<h3 align="center">A rookie in programming</h3>
+<h3 align="center">A guy who likes programming and sharing stories with friends</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dreamer5201314&label=Profile%20views&color=3399FF&style=flat" alt="crossoverjie" />
 
 <div align="center">
