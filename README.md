@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jerry Fan</h1>
 <h3 align="center">A guy who likes programming and sharing stories with friends</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dreamer5201314&label=Profile%20views&color=3399FF&style=flat" alt="crossoverjie" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dreamer5201314&label=Profile%20views&color=3399FF&style=flat" alt="kissjerryfan" />
 
 <div align="center">
 
@@ -12,28 +12,28 @@
   <h3 align="left">Status and language preference：</h3>
 
 <div align="center"> 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Dreamer5201314&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamer5201314&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=kissjerryfan&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kissjerryfan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
   <h3 align="left">Streak status：</h3>
 
   <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dreamer5201314&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kissjerryfan&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
   
 <h3 align="left">Activity graph:</h3>
   
-[![Dreamer5201314's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dreamer5201314&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dreamer5201314's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kissjerryfan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://raw.githubusercontent.com/Dreamer5201314/Dreamer5201314/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/kissjerryfan/kissjerryfan/main/assets/github-contribution-grid-snake.svg)
 
 </div>
 
 <h3 align="left">Some achievements:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dreamer5201314&rank=-C" alt="Dreamer5201314" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kissjerryfan&rank=-C" alt="kissjerryfan" /></a> </p>
 
 <h3 align="left">Something about me:</h3>
 
@@ -56,10 +56,6 @@
 - 💞️ I’m looking to collaborate on some projects which are about network attack and defence
 
 - 📫 How to reach me ... You can reach me by sending an email to craker-fan@foxmail.com
-
-<div align="center">
-    <img src="https://metrics.lecoq.io/Dreamer5201314?template=classic&config.timezone=Asia%2FShanghai">
-</div>
 
 <h3 align="left">Quotation:</h3>
 
