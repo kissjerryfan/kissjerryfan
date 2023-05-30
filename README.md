@@ -26,7 +26,7 @@
   
 <h3 align="left">Activity graph:</h3>
   
-[![Dreamer5201314's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kissjerryfan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dreamer5201314's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kissjerryfan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://raw.githubusercontent.com/kissjerryfan/kissjerryfan/main/assets/github-contribution-grid-snake.svg)
 
