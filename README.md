@@ -63,7 +63,30 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://baike.baidu.com/item/HTML5/4234903?fr=aladdin" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/opensource/idea/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/> </a><a href="https://www.jetbrains.com/zh-cn/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="40" height="40"/> </a><a href="https://pytorch.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/> </a></p>
+<p align="left"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" alt="filezilla" width="40" height="40"/>
+</p>
 
 <!---
 Dreamer5201314/Dreamer5201314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
