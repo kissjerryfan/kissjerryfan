@@ -28,7 +28,7 @@
   
 [![Dreamer5201314's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kissjerryfan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://raw.githubusercontent.com/kissjerryfan/kissjerryfan/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/kissjerryfan/kissjerryfan/main/dist/github-contribution-grid-snake.svg)
 
 </div>
 
