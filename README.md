@@ -39,7 +39,8 @@
 <div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
 
 <!-- 比较好的开源项目卡片 -->
-<a href="https://github.com/liyupi/algorithm-base">
+<div align="center">
+<a href="https://github.com/kissjerryfan/leetcode">
   <img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=kissjerryfan&repo=leetcode&theme=dark&bg_color=0d1117&hide_border=true" />
 </a>
 </div>
