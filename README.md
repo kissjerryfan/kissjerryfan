@@ -39,11 +39,8 @@
 <div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
 
 <!-- 比较好的开源项目卡片 -->
-<div align="center" style="height="130px"">
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/liyupi/algorithm-base">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=liyupi&repo=algorithm-base&theme=dark&bg_color=0d1117&hide_border=true" />
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=kissjerryfan&repo=leetcode&theme=dark&bg_color=0d1117&hide_border=true" />
 </a>
 </div>
 
