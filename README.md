@@ -43,6 +43,9 @@
 <a href="https://github.com/kissjerryfan/leetcode">
   <img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=kissjerryfan&repo=leetcode&theme=dark&bg_color=0d1117&hide_border=true" />
 </a>
+<a href="https://github.com/kissjerryfan/master-collections">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=kissjerryfan&repo=master-collections&theme=dark&bg_color=0d1117&hide_border=true" />
+</a>
 </div>
 
 - 👀 I’m interested in deep learning and quantitative trading.
