@@ -31,7 +31,8 @@
 </div>
 
 <h3 align="left">Some achievements:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=kissjerryfan&rank=-C&title=-Reviews" alt="kissjerryfan" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=kissjerryfan&rank=-C&title=-Reviews" alt="kissjerryfan" /></a> </p> -->
+<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  </p>
 
 <h3 align="left">Something about me:</h3>
 
